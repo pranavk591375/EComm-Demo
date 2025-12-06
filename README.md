@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+#ShopSphere – MERN eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
 
